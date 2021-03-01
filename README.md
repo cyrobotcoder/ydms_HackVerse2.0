@@ -1,6 +1,7 @@
-# ydms_HackVerse2.0
+# Project Hackverse 2.0 @Aditya Kumar Gupta & @ Himanshu Sahu
 
 Website for more convenience - https://al1216.github.io/ydms_HackVerse2.0/
+
 Youtube Video link - https://youtu.be/dVZIyFsspOU
 
 Title of the hack - YOUR DATABASE MANAGEMENT SYSTEM
